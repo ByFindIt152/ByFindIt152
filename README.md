@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ByFindIt152
-- 👀 I’m interested in ... Games and PyScrpits
-- 🌱 I’m currently learning ... Python 
-- 💞️ I’m looking to collaborate on ... Videogames
-- 📫 How to reach me ...
+- 👀 I’m interested in Games , Automatization and any scripts.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Automatization Projects.
+- 📫 How to reach me Good.
 
 <!---
 ByFindIt152/ByFindIt152 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
